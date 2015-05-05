@@ -5,6 +5,7 @@
 .two{
 	background: #344051;
 	height: 1110px;
+	padding-bottom: 30px;
 }
 .three{
 	background: #E8F0F5;
@@ -48,6 +49,18 @@
 .eleven{
 	background:#1E8CBE;
 	height: 50px;
-	margin: 35px 125px 0px;
+	margin: 35px auto 0px;
+	width: 210px;
 	border: #212934 solid 10px;
+}
+.twelve{
+	background: white;
+	height: 20px;
+	width: 50px;
+	margin: 215px auto 135px;
+}
+.thir{
+	background: white;
+	height: 70px;
+	margin: 0px 75px 30px;
 }
