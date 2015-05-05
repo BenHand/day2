@@ -13,15 +13,18 @@
 }
 .four{
 	background: #D1D3D7;
-	height: 1575px;
+	height: 1556px;
+	padding-top: 32px;
 }
 .five{
 	background: #E8F0F5;
-	height: 170px;
+	height: 70px;
+	padding-top: 100px; /*moves blue box down*/
 }
 .six{
 	background: #000000;
-	height: 130px;
+	height: 45px;
+	padding-top: 85px;
 }
 .seven{
 	color: white;
@@ -64,4 +67,25 @@
 	height: 70px;
 	width: 300px;
 	margin: 0px auto 30px;
+}
+.fourt{
+	background: white;
+	margin: 0px 10px 32px;
+	height: 215px; 
+}
+.fift{
+	background: white;
+	margin: 0px 10px 32px;
+	height: 240px; 
+}
+.sixt{
+	background:#1E8CBE;
+	height: 50px;
+	width: 210px;
+	margin: 0px auto 0px;
+}
+.sevent{
+	background:white;
+	height: 25px;
+	margin: 0px 155px 0px;
 }
