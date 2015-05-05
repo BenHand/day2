@@ -30,7 +30,7 @@
 	color: white;
 	font-size: 34px;
 	text-align: center;
-	padding-top: 165px;
+	/*padding-top: 165px;*/
 
 }
 .eight{
@@ -88,4 +88,20 @@
 	background:white;
 	height: 25px;
 	margin: 0px 155px 0px;
+
+}
+.words{
+	color: white;
+	font-size: 12px;
+	margin-top: 50px;
+	margin-right: 10px;
+	margin-left: 40px;
+	text-align: center;
+	word-spacing: 15px;
+}
+.word{
+	color: white;
+	font-size: 12px;
+	word-spacing: 15px;
+	text-align: center;
 }
