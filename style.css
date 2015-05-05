@@ -105,3 +105,20 @@
 	word-spacing: 15px;
 	text-align: center;
 }
+/*stage 2*/
+.s2whitesmall{
+	background:white;
+	height: 32px;
+	width: 32px;
+	margin-left: 15px;
+	margin-top: 10px;
+	float: left;
+}
+.s2whitelong{
+	background:white;
+	height: 32px;
+	width:110px;
+	margin-left: 15px;
+	margin-top: 10px;
+	float: left;
+}
