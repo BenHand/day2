@@ -71,12 +71,14 @@
 .fourt{
 	background: white;
 	margin: 0px 10px 32px;
-	height: 215px; 
+	height: 195px;
+	padding-top: 20px;
 }
 .fift{
 	background: white;
 	margin: 0px 10px 32px;
-	height: 240px; 
+	height: 220px; 
+	padding-top: 20px;
 }
 .sixt{
 	background:#1E8CBE;
@@ -140,4 +142,30 @@
 	width: 236px;
 	background:#616E7F;
 	margin-left: 60px;
+}
+.s2graysq{
+	background:#C7D2D8;
+	width: 63px;
+	height: 63px;
+	margin: 0px auto 10px;
+
+}
+.s2grayrecttop{
+	background:#C7D2D8;
+	height: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+.s2grayrectbot{
+	background:#C7D2D8;
+	height:50px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.s2grayrectbothigh{
+	background:#C7D2D8;
+	height:70px;
+	margin-left: 15px;
+	margin-right: 15px;
 }
