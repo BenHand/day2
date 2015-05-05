@@ -3,6 +3,22 @@
 	height: 50px;
 }
 .two{
-	background-color: #344051;
-	height: 400px;
+	background: #344051;
+	height: 1110px;
+}
+.three{
+	background: #E8F0F5;
+	height: 190px;
+}
+.four{
+	background: #D1D3D7;
+	height: 1575px;
+}
+.five{
+	background: #E8F0F5;
+	height: 170px;
+}
+.six{
+	background: #000000;
+	height: 130px;
 }
