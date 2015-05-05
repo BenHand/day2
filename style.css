@@ -62,5 +62,6 @@
 .thir{
 	background: white;
 	height: 70px;
-	margin: 0px 75px 30px;
+	width: 300px;
+	margin: 0px auto 30px;
 }
