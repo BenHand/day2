@@ -172,6 +172,7 @@
 	width: 63px;
 	height: 63px;
 	margin: 0px auto 10px;
+	border-radius: 40px;
 
 }
 .s2grayrecttop{
@@ -262,4 +263,46 @@
 	display: inline-block center;
 	margin-top: 0px;
 	padding-top: 15px;
+}
+.bulb{
+	background:url(images/lightbulb.png);
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+}
+.cloud{
+	background:url(images/cloud.png);
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+}
+.code{
+	background:url(images/code.png);
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+}
+.comment{
+	background:url(images/comments.png);
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+}
+.gift{
+	background:url(images/gift.png);
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
+}
+.globe{
+	background:url(images/globe.png);	
+	padding-top: 65px;
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-position: center;
 }
