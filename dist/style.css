@@ -18,8 +18,9 @@
 }
 .five{
 	background: #E8F0F5;
-	height: 70px;
-	padding-top: 80px; /*moves blue box down*/
+	height: 150px;
+	/*padding-top: 80px; */
+	/*moves blue box down*/
 	padding-bottom: 20px;
 	margin-top: 0px;
 }
@@ -252,9 +253,13 @@
 	margin-top: 0px;
 }
 .bottomtext{
-	margin-top:40px;
-	padding-top: 0px;
-	float: left;
+	/*margin-top:40px;*/
+	padding-top: 30px;
+	color: #293A4F;
+	font-size: 30px;
+	margin-bottom: 40px;
+	text-align: center;
+	/*float: left;*/
 }
 .createbottom{
 	text-align: center;
@@ -266,42 +271,42 @@
 }
 .bulb{
 	background:url(images/lightbulb.png);
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
 }
 .cloud{
 	background:url(images/cloud.png);
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
 }
 .code{
 	background:url(images/code.png);
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
 }
 .comment{
 	background:url(images/comments.png);
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
 }
 .gift{
 	background:url(images/gift.png);
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
 }
 .globe{
 	background:url(images/globe.png);	
-	padding-top: 65px;
+	padding-top: 63px;
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
