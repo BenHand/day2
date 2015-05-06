@@ -3,7 +3,7 @@
 	height: 50px;
 }
 .two{
-	background: #344051;
+	background: url(images/crowd.jpg);
 	height: 1110px;
 	padding-bottom: 30px;
 }
@@ -113,12 +113,13 @@
 }
 /*stage 2*/
 .s2whitesmall{
-	background:white;
+	background:url(images/logo.png);
 	height: 32px;
 	width: 32px;
 	margin-left: 15px;
 	margin-top: 10px;
 	float: left;
+	background-size: cover;
 }
 .s2whitelong{
 	background:#118BC0;
@@ -135,16 +136,35 @@
 	height: 50px;
 }
 .s2graysmall{
-	background: white;
+	background: url(images/tablet.png);
 	height: 60px;
 	width: 50px;
 	float: left;
-	margin-top: 10px;
+	margin-top: 5px;
+	background-size: cover;
+}
+.s2graysmall2{
+	background: url(images/newspaper.png);
+	height: 60px;
+	width: 50px;
+	float: left;
+	margin-top: 5px;
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.s2graysmall3{
+	background: url(images/paint-brush.png);
+	height: 60px;
+	width: 50px;
+	float: left;
+	margin-top: 5px;
+	background-size: contain;
+	background-repeat: no-repeat;
 }
 .s2graylong{
 	height: 60px;
 	width: 236px;
-	background:#344051;
+/*	background:#344051;*/
 	margin-left: 60px;
 }
 .s2graysq{
@@ -206,7 +226,7 @@
 .s2graylongs{
 	height: 60px;
 	width: 250px;
-	background:#344051;
+	/*background:#344051;*/
 	margin-left: 60px;
 }
 .lightgreytext{
