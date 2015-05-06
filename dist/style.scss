@@ -1,3 +1,8 @@
+$link-color:white;
+a {
+	color: $link-color;
+	text-decoration: none;
+}
 .one{
 	background: #118BC0;
 	height: 50px;
@@ -103,25 +108,36 @@
 	background-position: center;
 	background-size: 20%;
 }
-.words{
+.words, .word{
 	color: white;
 	font-size: 12px;
-	/*margin-top: 50px;*/
-/*	margin-right: 10px;
-	margin-left: 40px;*/
 	text-align: center;
 	word-spacing: 15px;
-}
-.word{
-	color: white;
-	font-size: 12px;
-	word-spacing: 15px;
-	text-align: center;
-}
+
 .words2{
-	font-size: 12px;
+	@extend .words;
 	word-spacing: 1px;
 }
+}
+// .words{
+// 	color: white;
+// 	font-size: 12px;
+// 	/*margin-top: 50px;*/
+// /*	margin-right: 10px;
+// 	margin-left: 40px;*/
+// 	text-align: center;
+// 	word-spacing: 15px;
+// }
+// .word{
+// 	color: white;
+// 	font-size: 12px;
+// 	word-spacing: 15px;
+// 	text-align: center;
+// }
+// .words2{
+// 	font-size: 12px;
+// 	word-spacing: 1px;
+// }
 /*stage 2*/
 .s2whitesmall{
 	background:url(images/logo.png);
@@ -322,8 +338,4 @@
 	background-repeat: no-repeat;
 	background-size: 60%;
 	background-position: center;
-}
-a {
-	color: white;
-	text-decoration: none;
 }
